@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<list>
+
+	<contacts event="sudoku">
+		<event>SUDOKU </event>
+		<coordinator>
+			<person>		 	Mrs. Padmini Sharma	</person>
+			<num>				</num>
+		</coordinator>
+		<manager1>				
+			<person>	 		Shashank Kumar Sahu</person>
+			<num>				+91 9806437624</num>
+		</manager1>
+		<manager2>	
+			<person>	 		Shikha Singh</person>
+			<num>				</num>
+		</manager2>
+	</contacts>
+
+	<contacts event="artifex">
+		<event>ARTIFEX</event>
+		<coordinator>
+			<person>		 	    Mrs Pratibha Kurup </person>
+			<num>				</num>
+		</coordinator>
+		<manager1>				
+			<person>	 		Pankaj Agrawal</person>
+			<num>				+91 7879043737</num>
+		</manager1>
+		<manager2>	
+			<person>	 		Chanchal Jain</person>
+			<num>				</num>
+		</manager2>
+	</contacts>
+
+	<contacts event="photophinics">
+		<event>PHOTOPHONICS</event>
+		<coordinator>
+			<person>		 	Mrs. Urmila Soni</person>
+			<num>				</num>
+		</coordinator>
+		<manager1>				
+			<person>	 		</person>
+			<num>				</num>
+		</manager1>
+		<manager2>	
+			<person>	 		</person>
+			<num>				</num>
+		</manager2>
+	</contacts>
+
+	<contacts event="trumble">
+		<event>TRUMBLE THE GENRE</event>
+		<coordinator>
+			<person>		 	Mrs. Deepti Dubey</person>
+			<num>				</num>
+		</coordinator>
+		<manager1>				
+			<person>	 		</person>
+			<num>				</num>
+		</manager1>
+		<manager2>	
+			<person>	 		</person>
+			<num>				</num>
+		</manager2>
+	</contacts>
+
+</list>

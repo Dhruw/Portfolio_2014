@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<list>
+
+	<contacts event="q">
+		<event>Q-MASTERO</event>
+		<coordinator>
+			<person>		 	Neelam Dewangan</person>
+			<num>				</num>
+		</coordinator>
+		<manager1>				
+			<person>	 		Vinita Soni</person>
+			<num>				</num>
+		</manager1>
+		<manager2>	
+			<person>	 		Ameya Joshi</person>
+			<num>				+91 9826356383</num>
+		</manager2>
+	</contacts>
+
+	<contacts event="ad">
+		<event>AD MAD SHOW</event>
+		<coordinator>
+			<person>		 	    Mrs. Manjusha Silas	</person>
+			<num>				+91 8966000099</num>
+		</coordinator>
+		<manager1>				
+			<person>	 		Apoorv Tiwari</person>
+			<num>				+91 9893150806</num>
+		</manager1>
+		<manager2>	
+			<person>	 		Priyanka Kumari</person>
+			<num>				</num>
+		</manager2>
+	</contacts>
+
+	<contacts event="dummy">
+		<event>DUMMY MARKET</event>
+		<coordinator>
+			<person>		 	    Ms Shoma Mitra	</person>
+			<num>				</num>
+		</coordinator>
+		<manager1>				
+			<person>	 		Akshay Gupta</person>
+			<num>				+91 9806319458</num>
+		</manager1>
+		<manager2>	
+			<person>	 		Jenni Thottam</person>
+			<num>				+91 9424109352</num>
+		</manager2>
+	</contacts>
+
+	<contacts event="nirmaan">
+		<event>NIRMAAN</event>
+		<coordinator>
+			<person>		 	    Mr. Abhishek Jha      </person>
+			<num>				+91 9755888861</num>
+		</coordinator>
+		<manager1>				
+			<person>	 		Amber Diwan</person>
+			<num>				+91 8103020752</num>
+		</manager1>
+		<manager2>	
+			<person>	 		Sarvesh Tiwari</person>
+			<num>				+91 9691301171</num>
+		</manager2>
+	</contacts>
+
+</list>

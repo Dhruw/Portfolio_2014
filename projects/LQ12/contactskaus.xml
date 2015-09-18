@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<list>
+
+	<contacts event="cs">
+			<event> COUNTER STRIKE </event>
+		<coordinator>
+			<person>		    Mr. Sanjay Baghel 	</person>
+			<num>				+91 9009977750</num>
+		</coordinator>
+		<manager1>				
+			<person>	 		Vishal Pandey</person>
+			<num>				+91 9691731415</num>
+		</manager1>
+		<manager2>	
+			<person>	 		Anurag Yadav</person>
+			<num>				+91 7415600001</num>
+		</manager2>
+	</contacts>
+
+	<contacts event="nfs">
+		<event>NEED FOR SPEED </event>
+		<coordinator>
+			<person>		 	Mr. Bhupesh Dewangan </person>
+			<num>				+91 9926231699</num>
+		</coordinator>
+		<manager1>				
+			<person>	 		Rahul Kashyap</person>
+			<num>				+91 9691391070</num>
+		</manager1>
+		<manager2>	
+			<person>	 		Priyansh Sharma</person>
+			<num>				+91 8109908416</num>
+		</manager2>
+	</contacts>
+
+	<contacts event="fifa">
+		<event> PRO EVOLUTION SOCCER 2011 </event>
+		<coordinator>
+			<person>		 	Mr. Dehal Ram Nishad </person>
+			<num>				+91 8966000069</num>
+		</coordinator>
+		<manager1>				
+			<person>	 		Rishi Kant Dubey</person>
+			<num>				+91 9039743251</num>
+		</manager1>
+		<manager2>	
+			<person>	 		Kaushal Prajapati</person>
+			<num>				+91 8109983774</num>
+		</manager2>
+	</contacts>
+
+</list>

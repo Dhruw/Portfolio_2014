@@ -1,0 +1,7 @@
+
+<h3>LAQSHYA</h3>
+<p align="justify">
+LaQshya is our annual national level techno management fest which is aimed to inculcate the technical spirits in  all its participants. LaQshya has earned a glorious repute in the Central India region as students from various prestigious colleges from across the nation participate in it .Since its origin in year 2009, the fest has constantly marked new heights of success.The event covers competitions from robotics, technical , gaming and brain teasers. It is managed jointly by faculty members and is well supported by student coordinators. With all the staff and students working in unison this three day event is a much awaited one in the region.
+ <br /><br />
+Chhatrapati Shivaji Institute of Technology organized National Level Techno -Management Fest" LaQshya '11" on 10th – 12th March  ,2011. The events in LaQshya covered almost every thinkable domain in the field of technology and management. They form the heart and soul of the festival & seek to provide a common platform for the best brains to interact and nurture their seedling ideas, transforming them into giant trees of innovation and progress.LaQshya'11 close to 5000 students participated from over institutions  and a SAARC country Nepal have come together to take parting LaQshya which have carved a niche for itself among the various techfest in the country. A total prize amount of 3.0 lakhs were distributed. 1st, 2nd, 3rd and consolation cash prizes were given to the winners of technical events.     
+</p>

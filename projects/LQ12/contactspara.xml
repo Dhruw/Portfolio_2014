@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<list>
+
+	<contacts event="cryptic">
+		<event> CRYPTIC - C </event>
+		<coordinator>
+			<person>		    Ms. Vinti Nanda      	</person>
+			<num>				</num>
+		</coordinator>
+		<manager1>				
+			<person>	 		 Rajiv Singh</person>
+			<num>				+91 8602274585</num>
+		</manager1>
+		<manager2>	
+			<person>	 		Vinay Pandey</person>
+			<num>				+91 8109242439</num>
+		</manager2>
+	</contacts>
+
+	<contacts event="crack">
+		<event> CRACK - O - MANIA </event>
+		<coordinator>
+			<person>		 	    Mrs. Manjusha Singh</person>
+			<num>				</num>
+		</coordinator>
+		<manager1>				
+			<person>	 		Prashant Shukla</person>
+			<num>				+91 9770816016</num>
+		</manager1>
+		<manager2>	
+			<person>	 		Sahdev Sahu</person>
+			<num>				+91 8602415534</num>
+		</manager2>
+	</contacts>
+
+	<contacts event="CAD">
+		<event> CAD - MASTER </event>
+		<coordinator>
+			<person>	    Mr. Priyank Shrivastava      	 	</person>
+			<num>			+91 8966000056	</num>
+		</coordinator>
+		<manager1>				
+			<person>	 		Paurus Vental</person>
+			<num>				+91 8103455603</num>
+		</manager1>
+		<manager2>	
+			<person>	 		Piyush Gupta</person>
+			<num>				+91 9093899938</num>
+		</manager2>
+	</contacts>
+
+	<contacts event="tronix">
+		<event> CIRCUIT MANIA </event>
+		<coordinator>
+			<person>		    Mrs Yojana Yadav  	</person>
+			<num>				+91 9827990928 </num>
+		</coordinator>
+		<manager1>				
+			<person>	 		Yogesh Kumar Meshram</person>
+			<num>				+91 7869545264</num>
+		</manager1>
+		<manager2>	
+			<person>	 		Anuj Yadav</person>
+			<num>				+91 9630450921</num>
+		</manager2>
+	</contacts>
+
+	<contacts event="linspire">
+		<event> LINSPIRE </event>
+		<coordinator>
+			<person>		 	Mr. R. K. Dewangan      </person>
+			<num>				+91 9301209363</num>
+		</coordinator>
+		<manager1>				
+			<person>	 		Ashutosh Rathore</person>
+			<num>				+91 9584433985</num>
+		</manager1>
+		<manager2>	
+			<person>	 		Srijan Tiwari</person>
+			<num>				+91 9584610125</num>
+		</manager2>
+	</contacts>
+
+	<contacts event="mu_pad">
+		<event> MICRO - PAD </event>
+		<coordinator>
+			<person>			Mr. Deepak Sharma      </person>
+			<num>				+91 8966000070</num>
+		</coordinator>
+		<manager1>				
+			<person>	 		Shubham Wathley</person>
+			<num>				+91 8103792599</num>
+		</manager1>
+		<manager2>	
+			<person>	 		Suryansh Bothra</person>
+			<num>				+91 8103002205</num>
+		</manager2>
+	</contacts>
+
+</list>

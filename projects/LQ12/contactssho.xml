@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<list>
+
+	<contacts event="robowar">
+		<event>ROBO WARS </event>
+		<coordinator>
+			<person>	Mr. H. R. CHANDRAKAR	 	</person>
+			<num>		+91 8966000059		</num>
+		</coordinator>
+		<manager1>				
+			<person>	V. Aditya 		</person>
+			<num>		+91 9907673051		</num>
+		</manager1>
+		<manager2>	
+			<person>	Kaushal Verm 	</person>
+			<num>		+91 9691698271		</num>
+		</manager2>
+	</contacts>
+ 
+	<contacts event="kuru">
+		<event> KURUKSHETRA </event>
+		<coordinator>
+			<person>	 	Mr. JITENDRA CHATURVEDANI	 	</person>
+			<num>			+91 8966000077		</num>
+		</coordinator>
+		<manager1>				
+			<person>		E. Narendra Sagar 	</person>
+			<num>			+91 9039802412	</num>
+		</manager1>
+		<manager2>	
+			<person>		Ankit Belchandan 	</person>
+			<num>			+91 9098191506	</num>
+		</manager2>
+	</contacts>
+ 
+	<contacts event="roboso">
+		<event> ROBO SOCCER </event>
+		<coordinator>
+			<person>		Mr. Akash Mandal 	</person>
+			<num>			+91 9406005189	</num>
+		</coordinator>
+		<manager1>				
+			<person>		Ateesh Dubey	</person>
+			<num>			+91 8871102272	</num>
+		</manager1>
+		<manager2>	
+			<person>		Shilpi Paul 	</person>
+			<num>				</num>
+		</manager2>
+	</contacts>
+
+	<contacts event="solv">
+		<event> SOLVATION </event>
+		<coordinator>
+			<person>		Mr. Ashish Dewangan  	</person>
+			<num>			+91 9424132896 	</num>
+		</coordinator>
+		<manager1>				
+			<person>		B. Giri  	</person>
+			<num>			+91 8103830953	</num>
+		</manager1>
+		<manager2>	
+			<person>		Anurag Soni 	</person>
+			<num>			+91 9098759775	</num>
+		</manager2>
+	</contacts>
+
+	<contacts event="line">
+		<event> LINE FOLLOWER </event>
+		<coordinator>
+			<person>		    Mr. NAVNEET SAHU  	</person>
+			<num>			+91 7587153270	</num>
+		</coordinator>
+		<manager1>				
+			<person>		Hitesh Kumar 	</person>
+			<num>			+91 9827109038	</num>
+		</manager1>
+		<manager2>	
+			<person>		Jayesh Yadav 	</person>
+			<num>			+91 7879110331	</num>
+		</manager2>
+	</contacts>
+
+	<contacts event="wrest">
+		<event> WRESTLEMANIA </event>
+		<coordinator>
+			<person>		Mr. O. P. Yadav  	</person>
+			<num>			+91 9827463599	</num>
+		</coordinator>
+		<manager1>				
+			<person>		Dhiraj Singh	</person>
+			<num>			+91 9691469640	</num>
+		</manager1>
+		<manager2>	
+			<person>		Shonit Hardas 	</person>
+			<num>			+91 9926152920	</num>
+		</manager2>
+	</contacts>
+
+	<contacts event="picasso">
+		<event> PICASSO </event>
+		<coordinator>
+			<person>		 Mr. Rajat Agrawal      	</person>
+			<num>			+91 8966000042	</num>
+		</coordinator>
+		<manager1>				
+			<person>		B. Hari Kishor Rao	</person>
+			<num>			+91 8103661072	</num>
+		</manager1>
+		<manager2>	
+			<person>		Jaikishan Dewangan 	</person>
+			<num>			+91 8109408084	</num>
+		</manager2>
+	</contacts>
+
+	<contacts event="deep">
+		<event> DEEP BLUE </event>
+		<coordinator>
+			<person>		Mr. R. K. Gupta  	</person>
+			<num>			+91 9826119919	</num>
+		</coordinator>
+		<manager1>				
+			<person>		Bhaskar Mishra 	</person>
+			<num>			+91 8103471598	</num>
+		</manager1>
+		<manager2>	
+			<person>		Sushil Maurya	</person>
+			<num>			+91 9691073723	</num>
+		</manager2>
+	</contacts>
+
+	<contacts event="xxce">
+		<event> XXCELERATE </event>
+		<coordinator>
+			<person>	    Mr. Somesh Yadav 	 	</person>
+			<num>			+91 9584079693	</num>
+		</coordinator>
+		<manager1>				
+			<person>		Nitish Kumar  	</person>
+			<num>			8103527177	</num>
+		</manager1>
+		<manager2>	
+			<person>		Palash Gupta	</person>
+			<num>			9827336404	</num>
+		</manager2>
+	</contacts>
+
+	<contacts event="throttle">
+		<event> FULL THROTTLE </event>
+		<coordinator>
+			<person>	    Mr. Sanjay Sharma  	 	</person>
+			<num>			+91 9977197447	</num>
+		</coordinator>
+		<manager1>				
+			<person>		Jaspreet Singh	</person>
+			<num>			+91 9993796609	</num>
+		</manager1>
+		<manager2>	
+			<person>		Md. Ahtesham Rana	</person>
+			<num>			+91 9300521422	</num>
+		</manager2>
+	</contacts>
+
+</list>
